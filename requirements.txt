@@ -6,3 +6,4 @@ torchaudio==0.10.1
 torchmetrics==0.10.0
 torchvision==0.14.0
 Pillow==9.4.0
+diffusers==0.13.0.dev0

@@ -18,3 +18,9 @@ It should be noted that for Chinese models, an adaptive clip text encoder is req
 ## Training 
 
 ### Coming Soon
+
+
+## Acknowledgements 
+This code is builds on the code from the [diffusers](https://github.com/huggingface/diffusers) library. 
+[Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) codebase.
+[OpenCLIP](https://github.com/mlfoundations/open_clip) codebase.
