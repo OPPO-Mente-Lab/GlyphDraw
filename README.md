@@ -15,9 +15,11 @@ One can check `test_en.py` for more details about interface.
 It should be noted that is will require train clip text encoder additionally for Chinese models.
 
 
-## Training 
+## TODOs
 
-### Coming Soon
+- [x] Release inference code
+- [ ] Release training code
+- [ ] Release demo
 
 
 ## Acknowledgements 
