@@ -1,0 +1,18 @@
+name: ldm
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.9
+  - cudatoolkit=11.6
+  - pytorch=1.13.0
+  - torchvision=0.14.0
+  - numpy=1.23.3
+  - pip:
+     - albumentations==0.4.3
+     - pytorch-lightning==1.8.3.post1
+     - pytorch-warmup==0.1.0
+     - torch-fidelity==0.3.0
+     - torchaudio==0.10.1
+     - torchmetrics==0.10.0
+     - Pillow==9.4.0
