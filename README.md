@@ -23,7 +23,7 @@ The first parameter represents The serial number of the current process, used fo
 and the second parameter the world size.Please review the detailed parameters of model training
 with train_en.sh script
 
-## Inference: Generate images with GlyphDraw
+## Inference
 
 We provide one script to generate images using checkpoints. Include Clip checkpoints, GlyphDraw checkpoints. Then run
 ```bash
