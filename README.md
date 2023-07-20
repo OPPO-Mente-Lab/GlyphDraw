@@ -38,8 +38,8 @@ It should be noted that for Chinese models, an adaptive clip text encoder is req
 
 - [x] Release inference code
 - [x] Release training code
-- [ ] Release data preparation code
-- [ ] Release mask prediction module training code
+- [x] Release data preparation code
+- [x] Release mask prediction module training code
 - [ ] Release demo
 
 
